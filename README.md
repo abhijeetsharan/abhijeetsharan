@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Sharan</h1>
-<h3 align="center">A passionate frontend deHi, I'm Abhijeet Sharan! 👋 🎓 Master's in Computer Applications (MCA) student at Birla Institute of Technology, Mesra 🌟 Passionate about Software Development, Machine Learning, and Web Development 👨‍💻 Exploring cutting-edge technologies and building impactful projectsveloper from India</h3>
+<h3 align="center">A passionate software developer, I'm Abhijeet Sharan! 👋 🎓 Master's in Computer Applications (MCA) student at Birla Institute of Technology, Mesra 🌟 Passionate about Software Development, Machine Learning, and Web Development 👨‍💻 Exploring cutting-edge technologies and building impactful projectsveloper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsharan&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsharan" /> </p>
 

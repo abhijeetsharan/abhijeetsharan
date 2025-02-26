@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [BIT Care - BIT Dispensary App](https://github.com/abhijeetsharan/Bit-Care)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on [Hostel-Room-Allotment](https://github.com/abhijeetsharan/hostel-room-allotment)
 

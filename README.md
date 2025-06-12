@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on [Hostel-Room-Allotment](https://github.com/abhijeetsharan/hostel-room-allotment)
 
-- 👨‍💻 All of my projects are available at [https://abhijeetsharan.vercel.app/](https://abhijeetsharan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://abhijeetsharan.tech/](https://abhijeetsharan.tech/)
 
 - 💬 Ask me about **Programming**
 
 - 📫 How to reach me **abhijeetsharan1510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mtrOq64DsxOMCXrPZvnQAnMtybmTPyIk/view?usp=drive_link](https://drive.google.com/file/d/1mtrOq64DsxOMCXrPZvnQAnMtybmTPyIk/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rRDph-k6quyfx8sMDT56coEvi1ZXdG_L/view](https://drive.google.com/file/d/1rRDph-k6quyfx8sMDT56coEvi1ZXdG_L/view)
 
 - ⚡ Fun fact **I think I am Funny**
 

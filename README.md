@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/devilabhiiii" target="blank"><img src="https://img.shields.io/twitter/follow/devilabhiiii?logo=twitter&style=for-the-badge" alt="devilabhiiii" /></a> </p>
 
-- 🔭 I’m currently working on [BIT Care - BIT Dispensary App](https://github.com/abhijeetsharan/Bit-Care)
-
-- 🌱 I’m currently learning **GoLang**
-
-- 👯 I’m looking to collaborate on [Hostel-Room-Allotment](https://github.com/abhijeetsharan/hostel-room-allotment)
-
 - 👨‍💻 All of my projects are available at [https://abhijeetsharan.tech/](https://abhijeetsharan.tech/)
 
 - 💬 Ask me about **Programming**
@@ -25,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devilabhiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devilabhiiii" height="30" width="40" /></a>
+<a href="https://twitter.com/abhijeetsharan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhijeetsharan_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhijeetsharan1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeetsharan1510" height="30" width="40" /></a>
-<a href="https://instagram.com/devilabhiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devilabhiiii" height="30" width="40" /></a>
+<a href="https://instagram.com/abhijeetsharan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeetsharan_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhijeetsharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijeetsharan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhijeetsharan1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhijeetsharan1510" height="30" width="40" /></a>
 </p>

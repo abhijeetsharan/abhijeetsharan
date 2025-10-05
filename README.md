@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **abhijeetsharan1510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IsjB8Lx3Gn5aDXB23T7wy-Rc3WKN3OxU/view?usp=sharing](https://drive.google.com/file/d/1IsjB8Lx3Gn5aDXB23T7wy-Rc3WKN3OxU/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
